@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+  background-color: #121212;
+
+    background-repeat: repeat;
+    background-size: auto;
+    background-position: bottom;
+    
+  
+  background-image: url("../src/assets/Frame966.svg");
+}
+
+
+footer {
+  background-color: #121212;
+}
+
+html{
+  background-image: url("../src/assets/fontfeuille.png")
+  
+}
+
